@@ -1,12 +1,6 @@
 # Bilibili 活动打卡自动化
 
-### 这个程序有什么用?
 
-
-
-### 如何使用?
-
-#### 方法一 使用 Github Actions(最简单, 推荐)
 
 [可以参照这里的详细说明.](https://lyc8503.gitee.io/giteepages/github-actions/)(需要同时用到本网页和说明, 建议右键链接-在新标签页中打开.)
 
